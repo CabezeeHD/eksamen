@@ -1,5 +1,8 @@
 p{
-    font-style: oblique;
+    text-align: center;
+}
+#Brodtext{
+    text-align: center;
 }
 a{
     color: black;
@@ -12,5 +15,8 @@ nav{
     text-decoration: none;
 }
 header{
+    text-align: center;
+}
+#loginHeader{
     text-align: center;
 }

@@ -14,7 +14,7 @@
 </head>
   <div class="container-fluid">
     <header>
-      <h1>Quantified self</h1>
+      <h1 id="loginHeader">Login</h1>
     </header>
   </div>
 <body>
@@ -27,7 +27,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">  
-          <a id="navbar" class="nav-item nav-link active" href="#">Hjem <span class="sr-only">(current)</span></a>
+          <a id="navbar" class="nav-item nav-link active" href="test.html">Hjem <span class="sr-only">(current)</span></a>
           <a id="navbar" class="nav-item nav-link" href="Side her">Features</a>
           <a id="navbar" class="nav-item nav-link" href="Index1.php">Login</a>
         </div>
